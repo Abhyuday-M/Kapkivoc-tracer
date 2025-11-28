@@ -187,3 +187,12 @@ kapkivoc-tracer/
 │   ├── model_server.py
 │   └── requirements.txt
 └── README.md
+
+## Output
+<img width="1366" height="2454" alt="screencapture-localhost-3000-2025-11-28-17_54_25" src="https://github.com/user-attachments/assets/e21f760d-5cab-449e-a6d6-158487820bbf" />
+<img width="1366" height="1694" alt="screencapture-localhost-3000-about-2025-11-28-17_55_02" src="https://github.com/user-attachments/assets/38249d71-32d2-491d-a836-a461f48ce3b6" />
+<img width="1366" height="936" alt="screencapture-localhost-3000-contact-2025-11-28-17_55_19" src="https://github.com/user-attachments/assets/9daa2674-86aa-44c7-95dc-6fee65916f16" />
+<img width="1366" height="613" alt="screencapture-localhost-3000-login-2025-11-28-17_55_33" src="https://github.com/user-attachments/assets/480d3b8f-89df-49af-85dd-fd12aa67f2de" />
+<img width="1366" height="761" alt="screencapture-localhost-3000-signup-2025-11-28-17_55_41" src="https://github.com/user-attachments/assets/2afc43f8-f304-47b2-ac6a-8e4d24c5bf1e" />
+<img width="1366" height="1112" alt="screencapture-localhost-3000-trace-2025-11-28-17_56_03" src="https://github.com/user-attachments/assets/88ed9c59-45de-4d87-8e01-e98f0e634809" />
+<img width="1366" height="1368" alt="screencapture-localhost-3000-trace-2025-11-28-17_56_31" src="https://github.com/user-attachments/assets/1b518008-7ad0-490b-b2fb-4017592ae411" />
